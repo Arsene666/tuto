@@ -1,4 +1,5 @@
 #include "tete.h"
+//
 
 void setColor(int color)
 {
